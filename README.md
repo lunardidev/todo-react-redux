@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Simple application using react and redux (without data persistence). 
+Simple application using react, redux and material-ui (without data persistence). 
+
+Link: https://lunardi.dev/react/todo-react-redux/build/
+
 
 ## Available Scripts
 
