@@ -1,4 +1,4 @@
-#Simple application using react/redux (without data persistence). 
+## Simple application using react/redux (without data persistence). 
 
 In the project directory, you can run:
 
